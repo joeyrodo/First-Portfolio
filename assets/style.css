@@ -33,11 +33,18 @@ header nav ul li {
 
 body {
     background: linear-gradient(180deg, royalblue, skyblue);
+    
 }
 
+main {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+main a {
+    text-decoration: none;
+}
 #intro {
     background-color: white;
-    height: 550px;
     width: 100%;    
 }
 
@@ -53,35 +60,56 @@ body {
     width: 25%;
 }
 
+#My-Work {
+    display: flex;
+    justify-content: center;
+}
+
+#my-work-text {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
 .app {
     border: solid 10px darkblue;
-    height: 700px;
     display: flex ;
     flex-wrap: wrap;
     outline-style: solid;
+    margin: 5%;
+    flex-direction: column;
+    align-items: center;
+}
+
+.app img {
+    width: 70%;
 }
 
 #app1 {
-    width: 60%;
-    height: 900px;
+    width: 90%;
 }
 
 #app2 {
-    width: 40%;
-    height: 700px;
+    width: 75%;
 }
 
+footer {
+    background-color: royalblue;
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+footer p {
+    display: inline-block;
+}
 @media screen and (max-width: 480px) {
-    .app {
-        border: solid 10px pink;
+    header nav {
+        display: none;
     }
-    #app1 {
-        width: 80%;
-        border: solid 10px orange;
-
-    }
-
-    #app2 {
-        width: 60%;
+    
+    #My-Work {
+        flex-direction: column;
     }
   }
