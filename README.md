@@ -1,6 +1,6 @@
 # Module 2 Challenge
 
-[Screenshot](./images/portfolio-screenshot.png)
+![Screenshot](./images/portfolio-screenshot.png)
 
 ## Description
 
@@ -13,6 +13,7 @@ I learned more about HTML and CSS, mostly about how to space and align things pr
 ## Installation
 
 N/A
+
 [Portfolio Link Here](https://joeyrodo.github.io/Module-2-Challenge/)
 
 ## Usage
