@@ -4,8 +4,6 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
 This project was created to be a portfolio for my future projects in coding. 
 This allows me to have a place where all my projects are gathered together for an employer or anyone interested to see my work.
 I learned more about HTML and CSS, mostly about how to space and align things properly. 
