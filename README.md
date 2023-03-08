@@ -1,5 +1,7 @@
 # Module 2 Challenge
 
+[Screenshot](./images/portfolio-screenshot.png)
+
 ## Description
 
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
@@ -11,6 +13,7 @@ I learned more about HTML and CSS, mostly about how to space and align things pr
 ## Installation
 
 N/A
+[Portfolio Link Here](https://joeyrodo.github.io/Module-2-Challenge/)
 
 ## Usage
 
