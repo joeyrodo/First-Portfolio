@@ -1,4 +1,4 @@
-# Module 2 Challenge
+# First Portfolio
 
 ![Screenshot](./images/portfolio-screenshot.png)
 
